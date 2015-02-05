@@ -1,1 +1,2 @@
 First Line added by Dev A in Master branch.
+Second Line added by Dev B in Master branch.
